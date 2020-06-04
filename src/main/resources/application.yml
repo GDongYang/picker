@@ -1,0 +1,10 @@
+# Swagger界面内容配置
+swagger:
+  title: TMax API接口文档
+  description: TMax Api Documentation
+  version: 1.0.0
+  termsOfServiceUrl: https://www.sscai.club
+  contact:
+    name: niceyoo
+    url: https://www.sscai.club
+    email: apkdream@163.com
